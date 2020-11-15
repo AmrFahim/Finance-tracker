@@ -21,3 +21,15 @@
     margin-top: 3.5%;
     padding-right: 5px;
 }
+
+#home-container {
+    margin-top: 25px;
+}
+
+.jumbotron {
+    background-image: asset-url('home-img.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 425px;
+}
